@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2AC6-9909
+
+ Directory of C:\Users\dell\Desktop\My Git test project
+
+06/09/2022  03:13 PM    <DIR>          .
+06/09/2022  03:13 PM    <DIR>          ..
+06/09/2022  03:13 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  17,510,387,712 bytes free
